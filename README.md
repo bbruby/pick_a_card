@@ -21,3 +21,4 @@ alias someinternalhost="ssh -i ~/.ssh/appuser -t -A appuser@34.76.5.251 ssh 10.1
 Подключение осуществляется посредством ввода имени алиаса:
 
 someinternalhost
+https://34.76.5.251.xip.io/
